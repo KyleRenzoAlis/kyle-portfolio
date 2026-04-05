@@ -9,7 +9,7 @@ const Me = () => {
         viewport={{ once: true }}
         transition={{ duration: 0.8 }}
       >
-        {/* --- YOUR IMAGE ADDED HERE --- */}
+       
         <motion.img 
           src="/assets/kyle.png" 
           alt="kyle"
@@ -23,7 +23,7 @@ const Me = () => {
           INTRODUCTION
         </span>
         
-        <h1>Hi, I'm Kyle</h1>
+        <h1>Hi, I'm Kyle Renzo C. Alis</h1>
         
         <p style={{ fontSize: '1.2rem', lineHeight: '1.6', maxWidth: '800px', margin: '0 auto' }}>
           I am a student at the <strong>Western Institute of Technology</strong>. 
