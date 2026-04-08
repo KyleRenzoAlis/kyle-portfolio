@@ -16,7 +16,7 @@ const Contact = () => {
         <div className="contact-details">
           <div className="contact-item">
             <strong>Email:</strong>
-            <p>kenzo@example.com</p> {/* Update with your real email */}
+            <p>kenzosomes@gmail.com</p> 
           </div>
           <div className="contact-item">
             <strong>Location:</strong>
@@ -25,7 +25,7 @@ const Contact = () => {
         </div>
 
         <motion.a 
-          href="mailto:your-email@gmail.com"
+          href="mailto:kenzosomes@gmail.com"
           className="pro-btn"
           style={{ display: 'inline-block', textDecoration: 'none', marginTop: '2rem' }}
           whileHover={{ scale: 1.05 }}
@@ -37,4 +37,4 @@ const Contact = () => {
   );
 };
 
-export default Contact;
+export default Contacts;
