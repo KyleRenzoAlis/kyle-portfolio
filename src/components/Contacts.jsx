@@ -1,6 +1,6 @@
 import { motion } from "framer-motion";
 
-const Contact = () => {
+const Contacts = () => {
   return (
     <section id="contact" className="section">
       <motion.div 
